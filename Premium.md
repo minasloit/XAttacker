@@ -5,7 +5,7 @@
 
 <br>
 <hr>
-<p><img src="https://s4.gifyu.com/images/IMG_2212.gif" width="620" height="380" /></p>
+<p><img src="" width="620" height="380" /></p>
   <a href="#tools">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Exploits List</a> •
     <a href="#usage">Usage</a> •
   <a href="#tuto">Tutorial</a> •
